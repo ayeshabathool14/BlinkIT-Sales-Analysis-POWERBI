@@ -80,7 +80,7 @@ It enables users to:
 - Support data-driven decision-making for marketing, supply chain, and inventory planning  
 
 ### This project demonstrates the full cycle of **data preparation, cleaning, visualization, and storytelling** using Microsoft Power BI.
-[https://github.com/yourusername/powerbi-sales-dashboard.git](https://github.com/ayeshabathool14/BlinkIT-Sales-Analysis-POWERBI/tree/main)
+#### https://github.com/ayeshabathool14/BlinkIT-Sales-Analysis-POWERBI/blob/main/Ayesha%20Project%20Report.pbix
 ---
 
 ## 📂Open Power BI Desktop.
